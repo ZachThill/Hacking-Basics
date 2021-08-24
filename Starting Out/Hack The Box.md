@@ -16,5 +16,15 @@ After clicking this, make sure you specify that you want to connect via **Open V
 
 ![image](https://user-images.githubusercontent.com/83109592/130576216-81d05d46-1f7b-46d6-bb44-f48edcd87f41.png)
 
+Pick the US Server and download the file
+
+![image](https://user-images.githubusercontent.com/83109592/130586093-b7090eda-f051-475a-9d35-219e360d9766.png)
+
+Finally upload the file to your Kali VM, and open it by typing in the following command: 
+
+![image](https://user-images.githubusercontent.com/83109592/130585361-7ee7218d-a37d-48f8-9004-2f4b61d0b2a5.png)
+
+This will connect your Kali Linux machine to Hack The Box and you will finally be able to access the free servers. 
+
 
 
