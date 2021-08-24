@@ -26,7 +26,7 @@ Finally upload the file to your Kali VM, and open it by typing in the following 
 
 This will connect your Kali Linux machine to Hack The Box and you will finally be able to access the free servers. 
 
-**Connecting to a Box** 
+# Connecting to a Box 
 
 Once your Kali machine has a VPN connection, you can now connect to a server and try to hack it. 
 
